@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "product": "FreshKeep",
+  "platform": "android",
+  "direction": "Modern Fresh Food App",
+  "seedReference": "seed:5a82fd73d3352784",
+  "decision": "The user's pinned warm, realistic food direction overrides the generated catalog direction.",
+  "signatureMove": "Real food photography leads each inventory and recipe group while status remains readable in standard Material controls.",
+  "palette": {
+    "green": "#237A57",
+    "lightGreen": "#B9DCA6",
+    "cream": "#FFF6E8",
+    "peach": "#FFAA5B",
+    "coral": "#E76F60"
+  },
+  "motion": "Subtle 260-300ms entrance; disabled when reduced motion is requested.",
+  "accessibility": "48dp targets, semantic image labels, light/dark, RTL/LTR, 320px and 200% text coverage."
+}

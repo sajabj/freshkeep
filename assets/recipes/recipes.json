@@ -1,0 +1,906 @@
+[
+  {
+    "id": "banana-oats",
+    "ar": "شوفان بالحليب والموز",
+    "en": "Banana milk porridge",
+    "minutes": 12,
+    "servings": 2,
+    "category": "breakfast",
+    "art": "porridge",
+    "ingredients": [
+      {
+        "key": "oats",
+        "ar": "شوفان",
+        "en": "Oats",
+        "aliases": [
+          "oats",
+          "rolled oats",
+          "شوفان"
+        ],
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "key": "milk",
+        "ar": "حليب",
+        "en": "Milk",
+        "aliases": [
+          "milk",
+          "fresh milk",
+          "حليب",
+          "حليب طازج"
+        ],
+        "amount": 400,
+        "unit": "ml"
+      },
+      {
+        "key": "banana",
+        "ar": "موز",
+        "en": "Banana",
+        "aliases": [
+          "banana",
+          "bananas",
+          "موز"
+        ],
+        "amount": 2,
+        "unit": "pcs"
+      }
+    ],
+    "stepsAr": [
+      "ضع الشوفان والحليب في قدر صغير على نار هادئة.",
+      "حرّك 5–7 دقائق حتى يلين الشوفان ويتماسك القوام، وأضف قليلًا من الماء عند الحاجة.",
+      "قشّر الموز وقطّعه. وزّع الشوفان في طبقين وأضف الموز وقدّم."
+    ],
+    "stepsEn": [
+      "Combine oats and milk in a small saucepan over low heat.",
+      "Stir for 5–7 minutes until the oats soften and thicken; add a splash of water if needed.",
+      "Peel and slice the bananas. Divide the porridge between two bowls and top with banana."
+    ]
+  },
+  {
+    "id": "tomato-pasta",
+    "ar": "معكرونة بصلصة الطماطم",
+    "en": "Tomato garlic pasta",
+    "minutes": 25,
+    "servings": 2,
+    "category": "main",
+    "art": "pasta",
+    "ingredients": [
+      {
+        "key": "pasta",
+        "ar": "معكرونة",
+        "en": "Pasta",
+        "aliases": [
+          "pasta",
+          "spaghetti",
+          "معكرونة",
+          "مكرونة"
+        ],
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "key": "tomato",
+        "ar": "طماطم",
+        "en": "Tomato",
+        "aliases": [
+          "tomato",
+          "tomatoes",
+          "طماطم",
+          "بندورة"
+        ],
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "key": "garlic",
+        "ar": "ثوم",
+        "en": "Garlic",
+        "aliases": [
+          "garlic",
+          "ثوم"
+        ],
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "aliases": [
+          "olive oil",
+          "زيت زيتون"
+        ],
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "key": "water",
+        "ar": "ماء",
+        "en": "Water",
+        "aliases": [
+          "water",
+          "ماء"
+        ],
+        "amount": 1500,
+        "unit": "ml"
+      }
+    ],
+    "stepsAr": [
+      "اغسل الطماطم وقطّعها، وقشّر الثوم وافرمه.",
+      "اغلِ الماء واسلق المعكرونة وفق وقت العبوة، ثم صفّها مع الاحتفاظ بقليل من ماء السلق.",
+      "سخّن الزيت، وحرّك الثوم نصف دقيقة دون حرقه. أضف الطماطم واطبخ 10–12 دقيقة حتى تتكون صلصة.",
+      "أضف المعكرونة وقليلًا من ماء السلق عند الحاجة، وحرّك وقدّم."
+    ],
+    "stepsEn": [
+      "Wash and chop the tomatoes; peel and mince the garlic.",
+      "Boil the water and cook the pasta for the package time. Drain, reserving some cooking water.",
+      "Warm the oil and stir the garlic for 30 seconds without burning. Add tomatoes and simmer for 10–12 minutes.",
+      "Toss the pasta with the sauce, loosening with reserved water if needed, and serve."
+    ]
+  },
+  {
+    "id": "chickpea-salad",
+    "ar": "سلطة الحمص والخيار",
+    "en": "Chickpea cucumber salad",
+    "minutes": 15,
+    "servings": 2,
+    "category": "salad",
+    "art": "salad",
+    "ingredients": [
+      {
+        "key": "chickpeas",
+        "ar": "حمص مطبوخ أو معلب مصفى",
+        "en": "Cooked or canned drained chickpeas",
+        "aliases": [
+          "cooked chickpeas",
+          "canned chickpeas",
+          "حمص مطبوخ",
+          "حمص معلب"
+        ],
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "key": "cucumber",
+        "ar": "خيار",
+        "en": "Cucumber",
+        "aliases": [
+          "cucumber",
+          "cucumbers",
+          "خيار"
+        ],
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "key": "tomato",
+        "ar": "طماطم",
+        "en": "Tomato",
+        "aliases": [
+          "tomato",
+          "tomatoes",
+          "طماطم",
+          "بندورة"
+        ],
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "key": "lemon",
+        "ar": "عصير ليمون",
+        "en": "Lemon juice",
+        "aliases": [
+          "lemon juice",
+          "عصير ليمون"
+        ],
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "aliases": [
+          "olive oil",
+          "زيت زيتون"
+        ],
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "stepsAr": [
+      "استخدم حمصًا مطبوخًا أو معلبًا؛ صفّه واشطفه. لا تستخدم حبوب الحمص النيئة.",
+      "اغسل الخيار والطماطم وقطّعهما إلى مكعبات.",
+      "امزج الحمص والخضار مع الليمون والزيت وقدّم، أو برّد حتى التقديم."
+    ],
+    "stepsEn": [
+      "Use cooked or canned chickpeas, drained and rinsed; do not use raw dried chickpeas.",
+      "Wash and dice the cucumber and tomatoes.",
+      "Toss the chickpeas and vegetables with lemon juice and olive oil. Serve or refrigerate until serving."
+    ]
+  },
+  {
+    "id": "vegetable-soup",
+    "ar": "شوربة الخضار",
+    "en": "Everyday vegetable soup",
+    "minutes": 35,
+    "servings": 2,
+    "category": "soup",
+    "art": "soup",
+    "ingredients": [
+      {
+        "key": "carrot",
+        "ar": "جزر",
+        "en": "Carrot",
+        "aliases": [
+          "carrot",
+          "carrots",
+          "جزر"
+        ],
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "key": "potato",
+        "ar": "بطاطا",
+        "en": "Potato",
+        "aliases": [
+          "potato",
+          "potatoes",
+          "بطاطا",
+          "بطاطس"
+        ],
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "key": "onion",
+        "ar": "بصل",
+        "en": "Onion",
+        "aliases": [
+          "onion",
+          "onions",
+          "بصل"
+        ],
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "aliases": [
+          "olive oil",
+          "زيت زيتون"
+        ],
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "key": "water",
+        "ar": "ماء",
+        "en": "Water",
+        "aliases": [
+          "water",
+          "ماء"
+        ],
+        "amount": 700,
+        "unit": "ml"
+      }
+    ],
+    "stepsAr": [
+      "اغسل الخضار وقشّر ما يلزم، ثم قطّعها إلى مكعبات صغيرة.",
+      "سخّن الزيت في قدر وحرّك البصل 3 دقائق.",
+      "أضف الجزر والبطاطا والماء واترك الخليط يغلي، ثم خفّف النار.",
+      "اطبخ 20–25 دقيقة حتى تلين الخضار. اهرس جزءًا منها بالشوكة لقوام أسمك وقدّم."
+    ],
+    "stepsEn": [
+      "Wash and peel the vegetables as needed, then cut into small dice.",
+      "Warm the oil in a saucepan and soften the onion for 3 minutes.",
+      "Add carrot, potato and water. Bring to a boil, then lower the heat.",
+      "Simmer for 20–25 minutes until tender. Mash some vegetables with a fork for a thicker soup and serve."
+    ]
+  },
+  {
+    "id": "pea-rice",
+    "ar": "أرز بالبازلاء",
+    "en": "Pea rice",
+    "minutes": 30,
+    "servings": 2,
+    "category": "main",
+    "art": "rice",
+    "ingredients": [
+      {
+        "key": "rice",
+        "ar": "أرز",
+        "en": "Rice",
+        "aliases": [
+          "rice",
+          "أرز",
+          "ارز"
+        ],
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "key": "peas",
+        "ar": "بازلاء",
+        "en": "Peas",
+        "aliases": [
+          "peas",
+          "frozen peas",
+          "بازلاء",
+          "بازلاء مجمدة"
+        ],
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "key": "onion",
+        "ar": "بصل",
+        "en": "Onion",
+        "aliases": [
+          "onion",
+          "onions",
+          "بصل"
+        ],
+        "amount": 70,
+        "unit": "g"
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "aliases": [
+          "olive oil",
+          "زيت زيتون"
+        ],
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "key": "water",
+        "ar": "ماء",
+        "en": "Water",
+        "aliases": [
+          "water",
+          "ماء"
+        ],
+        "amount": 350,
+        "unit": "ml"
+      }
+    ],
+    "stepsAr": [
+      "اشطف الأرز وقطّع البصل.",
+      "سخّن الزيت وحرّك البصل 3 دقائق، ثم أضف الأرز والماء واتركه يغلي.",
+      "غطّ القدر وخفّف النار، واتبع وقت عبوة الأرز واضبط الماء حسب نوعه.",
+      "أضف البازلاء خلال آخر 7 دقائق واطبخ حتى يسخن الجميع وينضج الأرز، ثم اتركه مغطى 5 دقائق."
+    ],
+    "stepsEn": [
+      "Rinse the rice and chop the onion.",
+      "Warm the oil, soften the onion for 3 minutes, then add rice and water and bring to a boil.",
+      "Cover and lower the heat. Follow the rice package timing and adjust water for the variety.",
+      "Add peas during the final 7 minutes. Cook until everything is hot and rice is tender; rest covered for 5 minutes."
+    ]
+  },
+  {
+    "id": "tomato-eggs",
+    "ar": "بيض بالطماطم",
+    "en": "Tomato skillet eggs",
+    "minutes": 20,
+    "servings": 2,
+    "category": "breakfast",
+    "art": "eggs",
+    "ingredients": [
+      {
+        "key": "egg",
+        "ar": "بيض",
+        "en": "Eggs",
+        "aliases": [
+          "egg",
+          "eggs",
+          "بيض"
+        ],
+        "amount": 4,
+        "unit": "pcs"
+      },
+      {
+        "key": "tomato",
+        "ar": "طماطم",
+        "en": "Tomato",
+        "aliases": [
+          "tomato",
+          "tomatoes",
+          "طماطم",
+          "بندورة"
+        ],
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "key": "onion",
+        "ar": "بصل",
+        "en": "Onion",
+        "aliases": [
+          "onion",
+          "onions",
+          "بصل"
+        ],
+        "amount": 70,
+        "unit": "g"
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "aliases": [
+          "olive oil",
+          "زيت زيتون"
+        ],
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "stepsAr": [
+      "اغسل الطماطم وقطّعها مع البصل.",
+      "سخّن الزيت وحرّك البصل، ثم أضف الطماطم واطبخ حتى تتكون صلصة سميكة.",
+      "اصنع أربع فجوات واكسر البيض فيها. غطّ المقلاة واطبخ على نار هادئة حتى يتماسك البياض والصفار تمامًا، ثم قدّم."
+    ],
+    "stepsEn": [
+      "Wash and chop the tomatoes and onion.",
+      "Warm the oil, soften the onion, then add tomatoes and cook to a thick sauce.",
+      "Make four wells and crack in the eggs. Cover and cook gently until whites and yolks are fully set, then serve."
+    ]
+  },
+  {
+    "id": "red-lentil-soup",
+    "ar": "شوربة العدس الأحمر",
+    "en": "Red lentil soup",
+    "minutes": 35,
+    "servings": 2,
+    "category": "soup",
+    "art": "soup",
+    "ingredients": [
+      {
+        "key": "lentils",
+        "ar": "عدس أحمر",
+        "en": "Red lentils",
+        "aliases": [
+          "red lentils",
+          "عدس احمر",
+          "عدس أحمر"
+        ],
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "key": "carrot",
+        "ar": "جزر",
+        "en": "Carrot",
+        "aliases": [
+          "carrot",
+          "carrots",
+          "جزر"
+        ],
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "key": "onion",
+        "ar": "بصل",
+        "en": "Onion",
+        "aliases": [
+          "onion",
+          "onions",
+          "بصل"
+        ],
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "aliases": [
+          "olive oil",
+          "زيت زيتون"
+        ],
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "key": "water",
+        "ar": "ماء",
+        "en": "Water",
+        "aliases": [
+          "water",
+          "ماء"
+        ],
+        "amount": 800,
+        "unit": "ml"
+      }
+    ],
+    "stepsAr": [
+      "اغسل العدس واشطفه، وقطّع البصل والجزر.",
+      "سخّن الزيت وحرّك البصل دقيقتين، ثم أضف بقية المكونات.",
+      "اتركها تغلي ثم خفّف النار، واطبخ 25 دقيقة أو حتى يلين العدس والجزر.",
+      "حرّك أو اهرس بالشوكة، وأضف ماءً ساخنًا إذا لزم، ثم قدّم."
+    ],
+    "stepsEn": [
+      "Rinse the lentils and chop the onion and carrot.",
+      "Warm the oil, soften onion for 2 minutes, then add the remaining ingredients.",
+      "Bring to a boil, lower the heat and simmer for 25 minutes or until the lentils and carrots soften.",
+      "Stir or mash with a fork; add hot water to loosen if needed, then serve."
+    ]
+  },
+  {
+    "id": "fruit-yogurt",
+    "ar": "زبادي بالتفاح والموز",
+    "en": "Apple banana yogurt bowls",
+    "minutes": 10,
+    "servings": 2,
+    "category": "breakfast",
+    "art": "fruit",
+    "ingredients": [
+      {
+        "key": "yogurt",
+        "ar": "لبن زبادي سادة",
+        "en": "Plain yogurt",
+        "aliases": [
+          "plain yogurt",
+          "yogurt",
+          "لبن زبادي",
+          "زبادي",
+          "لبن زبادي سادة"
+        ],
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "key": "apple",
+        "ar": "تفاح",
+        "en": "Apple",
+        "aliases": [
+          "apple",
+          "apples",
+          "تفاح"
+        ],
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "key": "banana",
+        "ar": "موز",
+        "en": "Banana",
+        "aliases": [
+          "banana",
+          "bananas",
+          "موز"
+        ],
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "key": "oats",
+        "ar": "شوفان",
+        "en": "Oats",
+        "aliases": [
+          "oats",
+          "rolled oats",
+          "شوفان"
+        ],
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "stepsAr": [
+      "اغسل التفاحة وأزل اللب، وقشّر الموز ثم قطّعهما.",
+      "وزّع الزبادي في طبقين وأضف الفاكهة والشوفان.",
+      "قدّم مباشرة، أو احفظه مغطى في الثلاجة حتى التقديم."
+    ],
+    "stepsEn": [
+      "Wash and core the apple, peel the banana, then chop both.",
+      "Divide yogurt between two bowls and add fruit and oats.",
+      "Serve immediately or keep covered in the refrigerator until serving."
+    ]
+  },
+  {
+    "id": "potato-omelette",
+    "ar": "عجة البطاطا",
+    "en": "Potato omelette",
+    "minutes": 30,
+    "servings": 2,
+    "category": "main",
+    "art": "eggs",
+    "ingredients": [
+      {
+        "key": "potato",
+        "ar": "بطاطا",
+        "en": "Potato",
+        "aliases": [
+          "potato",
+          "potatoes",
+          "بطاطا",
+          "بطاطس"
+        ],
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "key": "egg",
+        "ar": "بيض",
+        "en": "Eggs",
+        "aliases": [
+          "egg",
+          "eggs",
+          "بيض"
+        ],
+        "amount": 4,
+        "unit": "pcs"
+      },
+      {
+        "key": "onion",
+        "ar": "بصل",
+        "en": "Onion",
+        "aliases": [
+          "onion",
+          "onions",
+          "بصل"
+        ],
+        "amount": 70,
+        "unit": "g"
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "aliases": [
+          "olive oil",
+          "زيت زيتون"
+        ],
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "stepsAr": [
+      "اغسل البطاطا وقشّرها وقطّعها إلى مكعبات صغيرة، وافرُم البصل.",
+      "سخّن الزيت واطبخ البطاطا والبصل على نار متوسطة هادئة مع التقليب حتى تلين البطاطا؛ أضف قليلًا من الماء وغطّ إذا احتاجت.",
+      "اخفق البيض واسكبه فوق الخضار. غطّ واطبخ على نار هادئة حتى يتماسك البيض تمامًا؛ قسّمه لتسهيل قلبه عند الحاجة."
+    ],
+    "stepsEn": [
+      "Wash, peel and finely dice the potatoes; chop the onion.",
+      "Warm the oil and cook potatoes and onion over medium-low heat, stirring until tender; add a splash of water and cover if needed.",
+      "Beat the eggs and pour over the vegetables. Cover and cook gently until completely set; divide into sections to turn if needed."
+    ]
+  },
+  {
+    "id": "cucumber-yogurt",
+    "ar": "خيار بالزبادي",
+    "en": "Cucumber yogurt salad",
+    "minutes": 10,
+    "servings": 2,
+    "category": "salad",
+    "art": "salad",
+    "ingredients": [
+      {
+        "key": "cucumber",
+        "ar": "خيار",
+        "en": "Cucumber",
+        "aliases": [
+          "cucumber",
+          "cucumbers",
+          "خيار"
+        ],
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "key": "yogurt",
+        "ar": "لبن زبادي سادة",
+        "en": "Plain yogurt",
+        "aliases": [
+          "plain yogurt",
+          "yogurt",
+          "لبن زبادي",
+          "زبادي",
+          "لبن زبادي سادة"
+        ],
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "key": "garlic",
+        "ar": "ثوم",
+        "en": "Garlic",
+        "aliases": [
+          "garlic",
+          "ثوم"
+        ],
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "aliases": [
+          "olive oil",
+          "زيت زيتون"
+        ],
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "stepsAr": [
+      "اغسل الخيار وقطّعه صغيرًا، وقشّر الثوم واهرِسه.",
+      "امزج الخيار والثوم مع الزبادي وأضف الزيت.",
+      "قدّم باردًا، واحفظه في الثلاجة حتى التقديم."
+    ],
+    "stepsEn": [
+      "Wash and finely chop the cucumber; peel and crush the garlic.",
+      "Mix cucumber and garlic into the yogurt, then add olive oil.",
+      "Serve cold and keep refrigerated until serving."
+    ]
+  },
+  {
+    "id": "tomato-toast",
+    "ar": "خبز محمّص بالطماطم",
+    "en": "Tomato garlic toast",
+    "minutes": 15,
+    "servings": 2,
+    "category": "snack",
+    "art": "toast",
+    "ingredients": [
+      {
+        "key": "bread",
+        "ar": "خبز",
+        "en": "Bread",
+        "aliases": [
+          "bread",
+          "خبز"
+        ],
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "key": "tomato",
+        "ar": "طماطم",
+        "en": "Tomato",
+        "aliases": [
+          "tomato",
+          "tomatoes",
+          "طماطم",
+          "بندورة"
+        ],
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "key": "garlic",
+        "ar": "ثوم",
+        "en": "Garlic",
+        "aliases": [
+          "garlic",
+          "ثوم"
+        ],
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "aliases": [
+          "olive oil",
+          "زيت زيتون"
+        ],
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "stepsAr": [
+      "اغسل الطماطم وقطّعها، وقشّر الثوم.",
+      "حمّص شرائح الخبز في مقلاة جافة على الجهتين.",
+      "افرك الخبز بالثوم وأضف الطماطم والزيت وقدّم مباشرة."
+    ],
+    "stepsEn": [
+      "Wash and chop the tomatoes and peel the garlic.",
+      "Toast the bread slices on both sides in a dry frying pan.",
+      "Rub the toast with garlic, top with tomatoes and olive oil, and serve immediately."
+    ]
+  },
+  {
+    "id": "carrot-couscous",
+    "ar": "كسكس بالجزر والحمص",
+    "en": "Carrot chickpea couscous",
+    "minutes": 20,
+    "servings": 2,
+    "category": "main",
+    "art": "rice",
+    "ingredients": [
+      {
+        "key": "couscous",
+        "ar": "كسكس سريع التحضير",
+        "en": "Quick-cooking couscous",
+        "aliases": [
+          "couscous",
+          "كسكس",
+          "كسكسي"
+        ],
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "key": "carrot",
+        "ar": "جزر",
+        "en": "Carrot",
+        "aliases": [
+          "carrot",
+          "carrots",
+          "جزر"
+        ],
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "key": "chickpeas",
+        "ar": "حمص مطبوخ أو معلب مصفى",
+        "en": "Cooked or canned drained chickpeas",
+        "aliases": [
+          "cooked chickpeas",
+          "canned chickpeas",
+          "حمص مطبوخ",
+          "حمص معلب"
+        ],
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "aliases": [
+          "olive oil",
+          "زيت زيتون"
+        ],
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "key": "water",
+        "ar": "ماء",
+        "en": "Water",
+        "aliases": [
+          "water",
+          "ماء"
+        ],
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "key": "parsley",
+        "ar": "بقدونس",
+        "en": "Parsley",
+        "aliases": [
+          "parsley",
+          "بقدونس"
+        ],
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "stepsAr": [
+      "اغسل الجزر وابشره، واشطف الحمص المطبوخ أو المعلب وصفّه.",
+      "سخّن الزيت وحرّك الجزر 4 دقائق، ثم أضف الحمص حتى يسخن.",
+      "حضّر الكسكس سريع التحضير بالماء المغلي وفق تعليمات العبوة؛ اضبط مقدار الماء إذا طلبت العبوة ذلك.",
+      "فكّك الكسكس بالشوكة وامزجه بالجزر والحمص والبقدونس المغسول المفروم وقدّم."
+    ],
+    "stepsEn": [
+      "Wash and grate the carrot; rinse and drain cooked or canned chickpeas.",
+      "Warm the oil, cook the carrot for 4 minutes, then heat through the chickpeas.",
+      "Prepare quick-cooking couscous with boiling water according to its package; adjust water if the package specifies another amount.",
+      "Fluff with a fork, mix in carrot, chickpeas and washed chopped parsley, and serve."
+    ]
+  }
+]

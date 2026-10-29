@@ -1,0 +1,2007 @@
+[
+  {
+    "id": "fitness-chicken-rice-veg",
+    "ar": "دجاج مشوي مع الأرز والخضار",
+    "en": "Grilled Chicken with Rice & Vegetables",
+    "descriptionAr": "طبق متوازن بدجاج متبّل وأرز وخضار مشوية.",
+    "descriptionEn": "A balanced plate of seasoned chicken, rice and roasted vegetables.",
+    "fitnessGroup": "protein",
+    "category": "main",
+    "art": "fitness",
+    "minutes": 40,
+    "prepMinutes": 15,
+    "cookMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "chicken",
+        "ar": "صدر دجاج نيئ",
+        "en": "Raw chicken breast",
+        "amount": 360,
+        "unit": "g",
+        "aliases": [
+          "دجاج",
+          "chicken"
+        ]
+      },
+      {
+        "key": "rice",
+        "ar": "أرز أبيض مطبوخ",
+        "en": "Cooked white rice",
+        "amount": 360,
+        "unit": "g",
+        "aliases": [
+          "أرز",
+          "rice"
+        ]
+      },
+      {
+        "key": "carrot",
+        "ar": "جزر",
+        "en": "Carrot",
+        "amount": 160,
+        "unit": "g",
+        "aliases": [
+          "جزر",
+          "carrots"
+        ]
+      },
+      {
+        "key": "spinach",
+        "ar": "سبانخ",
+        "en": "Spinach",
+        "amount": 120,
+        "unit": "g",
+        "aliases": [
+          "سبانخ"
+        ]
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "amount": 15,
+        "unit": "g",
+        "aliases": [
+          "زيت"
+        ]
+      },
+      {
+        "key": "salt",
+        "ar": "ملح وفلفل",
+        "en": "Salt and pepper",
+        "amount": 1,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "تبّل الدجاج بالملح والفلفل ونصف الزيت.",
+      "اشوِ الدجاج حتى ينضج تمامًا ثم اتركه يرتاح.",
+      "شوّح الجزر والسبانخ ببقية الزيت وقدّمها مع الأرز والدجاج."
+    ],
+    "stepsEn": [
+      "Season the chicken with salt, pepper and half the oil.",
+      "Grill until fully cooked, then let it rest.",
+      "Sauté the carrot and spinach in the remaining oil; serve with rice and chicken."
+    ],
+    "allergensAr": [],
+    "allergensEn": [],
+    "nutrition": {
+      "calories": 539.9,
+      "protein": 47.8,
+      "carbohydrates": 59.9,
+      "fat": 12.0,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        168935,
+        170393,
+        171413,
+        1999632,
+        2646170
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-baked-salmon-potatoes",
+    "ar": "سلمون مشوي مع البطاطا",
+    "en": "Baked Salmon with Potatoes",
+    "descriptionAr": "سلمون بالفرن مع بطاطا ذهبية وتتبيلة بسيطة.",
+    "descriptionEn": "Oven-baked salmon with golden potatoes and simple seasoning.",
+    "fitnessGroup": "protein",
+    "category": "main",
+    "art": "fitness",
+    "minutes": 45,
+    "prepMinutes": 15,
+    "cookMinutes": 30,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "salmon",
+        "ar": "فيليه سلمون نيئ",
+        "en": "Raw salmon fillet",
+        "amount": 320,
+        "unit": "g",
+        "aliases": [
+          "سلمون",
+          "salmon"
+        ]
+      },
+      {
+        "key": "potato",
+        "ar": "بطاطا نيئة",
+        "en": "Raw potatoes",
+        "amount": 500,
+        "unit": "g",
+        "aliases": [
+          "بطاطا",
+          "potatoes"
+        ]
+      },
+      {
+        "key": "spinach",
+        "ar": "سبانخ",
+        "en": "Spinach",
+        "amount": 100,
+        "unit": "g",
+        "aliases": [
+          "سبانخ"
+        ]
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "amount": 15,
+        "unit": "g",
+        "aliases": [
+          "زيت"
+        ]
+      },
+      {
+        "key": "lemon",
+        "ar": "ليمون",
+        "en": "Lemon",
+        "amount": 1,
+        "unit": "pcs",
+        "aliases": [
+          "ليمون"
+        ]
+      },
+      {
+        "key": "salt",
+        "ar": "ملح وفلفل",
+        "en": "Salt and pepper",
+        "amount": 1,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "سخّن الفرن إلى 200°م وقطّع البطاطا.",
+      "قلّب البطاطا بالزيت واشوها 15 دقيقة.",
+      "أضف السلمون المتبّل واشوِ 12–15 دقيقة حتى ينضج، ثم قدّم مع السبانخ والليمون."
+    ],
+    "stepsEn": [
+      "Heat the oven to 200°C and cut the potatoes.",
+      "Toss potatoes with oil and roast for 15 minutes.",
+      "Add seasoned salmon and bake 12–15 minutes until done; serve with spinach and lemon."
+    ],
+    "allergensAr": [
+      "السمك"
+    ],
+    "allergensEn": [
+      "Fish"
+    ],
+    "nutrition": {
+      "calories": 578.5,
+      "protein": 38.4,
+      "carbohydrates": 41.2,
+      "fat": 29.4,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        171413,
+        1999632,
+        2346403,
+        2684441
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-tuna-chickpea-salad",
+    "ar": "سلطة تونة بالحمص",
+    "en": "Tuna & Chickpea Salad",
+    "descriptionAr": "سلطة مشبعة سريعة بالتونة والحمص والخضار.",
+    "descriptionEn": "A quick, satisfying tuna, chickpea and vegetable salad.",
+    "fitnessGroup": "protein",
+    "category": "salad",
+    "art": "fitness",
+    "minutes": 15,
+    "prepMinutes": 15,
+    "cookMinutes": 0,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "tuna",
+        "ar": "تونة بالماء مصفّاة",
+        "en": "Tuna in water, drained",
+        "amount": 240,
+        "unit": "g",
+        "aliases": [
+          "تونة",
+          "tuna"
+        ]
+      },
+      {
+        "key": "chickpeas",
+        "ar": "حمص معلب مصفّى ومغسول",
+        "en": "Canned chickpeas, drained and rinsed",
+        "amount": 300,
+        "unit": "g",
+        "aliases": [
+          "حمص",
+          "chickpeas"
+        ]
+      },
+      {
+        "key": "carrot",
+        "ar": "جزر مبشور",
+        "en": "Grated carrot",
+        "amount": 100,
+        "unit": "g",
+        "aliases": [
+          "جزر"
+        ]
+      },
+      {
+        "key": "spinach",
+        "ar": "سبانخ صغيرة",
+        "en": "Baby spinach",
+        "amount": 100,
+        "unit": "g",
+        "aliases": [
+          "سبانخ"
+        ]
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "amount": 10,
+        "unit": "g",
+        "aliases": [
+          "زيت"
+        ]
+      },
+      {
+        "key": "lemon",
+        "ar": "عصير ليمون",
+        "en": "Lemon juice",
+        "amount": 2,
+        "unit": "tbsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "صفِّ التونة والحمص واغسل الحمص.",
+      "اخلطهما مع الجزر والسبانخ.",
+      "أضف الزيت والليمون وتبّل ثم قدّم."
+    ],
+    "stepsEn": [
+      "Drain the tuna and chickpeas; rinse the chickpeas.",
+      "Combine with carrot and spinach.",
+      "Dress with oil and lemon, season and serve."
+    ],
+    "allergensAr": [
+      "السمك"
+    ],
+    "allergensEn": [
+      "Fish"
+    ],
+    "nutrition": {
+      "calories": 391.5,
+      "protein": 35.2,
+      "carbohydrates": 36.5,
+      "fat": 11.2,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        170393,
+        171413,
+        334194,
+        1999632,
+        2644288
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-meatballs-bulgur",
+    "ar": "كرات لحم منزلية مع البرغل",
+    "en": "Homemade Meatballs with Bulgur",
+    "descriptionAr": "كرات لحم مخبوزة مع برغل مطبوخ وجزر.",
+    "descriptionEn": "Baked meatballs served with cooked bulgur and carrot.",
+    "fitnessGroup": "protein",
+    "category": "main",
+    "art": "fitness",
+    "minutes": 45,
+    "prepMinutes": 20,
+    "cookMinutes": 25,
+    "servings": 3,
+    "ingredients": [
+      {
+        "key": "beef",
+        "ar": "لحم بقري مفروم مطبوخ 90% قليل الدهن",
+        "en": "Cooked 90% lean ground beef",
+        "amount": 360,
+        "unit": "g",
+        "aliases": [
+          "لحم",
+          "beef"
+        ]
+      },
+      {
+        "key": "bulgur",
+        "ar": "برغل مطبوخ",
+        "en": "Cooked bulgur",
+        "amount": 450,
+        "unit": "g",
+        "aliases": [
+          "برغل",
+          "bulgur"
+        ]
+      },
+      {
+        "key": "egg",
+        "ar": "بيضة",
+        "en": "Egg",
+        "amount": 1,
+        "unit": "pcs",
+        "aliases": [
+          "بيض",
+          "egg"
+        ]
+      },
+      {
+        "key": "carrot",
+        "ar": "جزر",
+        "en": "Carrot",
+        "amount": 180,
+        "unit": "g",
+        "aliases": [
+          "جزر"
+        ]
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "amount": 10,
+        "unit": "g",
+        "aliases": [
+          "زيت"
+        ]
+      },
+      {
+        "key": "spices",
+        "ar": "بهارات وملح",
+        "en": "Spices and salt",
+        "amount": 2,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "اخلط اللحم مع البيضة والبهارات وشكّل كرات.",
+      "اخبز الكرات على 200°م حتى تسخن وتنضج جيدًا.",
+      "شوّح الجزر وقدّم الكرات مع البرغل."
+    ],
+    "stepsEn": [
+      "Mix beef with egg and spices; shape into balls.",
+      "Bake at 200°C until heated through and fully cooked.",
+      "Sauté the carrot and serve with bulgur."
+    ],
+    "allergensAr": [
+      "البيض"
+    ],
+    "allergensEn": [
+      "Egg"
+    ],
+    "nutrition": {
+      "calories": 478.4,
+      "protein": 41.4,
+      "carbohydrates": 33.8,
+      "fat": 19.8,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        170287,
+        170393,
+        171287,
+        171413,
+        171794
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-spinach-cheese-omelet",
+    "ar": "أومليت البيض والسبانخ والجبنة",
+    "en": "Spinach & Cheese Omelet",
+    "descriptionAr": "أومليت طري بالسبانخ وجبنة الشيدر.",
+    "descriptionEn": "A tender omelet with spinach and cheddar.",
+    "fitnessGroup": "protein",
+    "category": "breakfast",
+    "art": "fitness",
+    "minutes": 20,
+    "prepMinutes": 10,
+    "cookMinutes": 10,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "egg",
+        "ar": "بيض",
+        "en": "Eggs",
+        "amount": 4,
+        "unit": "pcs",
+        "aliases": [
+          "بيض",
+          "eggs"
+        ]
+      },
+      {
+        "key": "spinach",
+        "ar": "سبانخ",
+        "en": "Spinach",
+        "amount": 120,
+        "unit": "g",
+        "aliases": [
+          "سبانخ"
+        ]
+      },
+      {
+        "key": "cheese",
+        "ar": "جبنة شيدر",
+        "en": "Cheddar cheese",
+        "amount": 60,
+        "unit": "g",
+        "aliases": [
+          "جبنة",
+          "cheese"
+        ]
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "amount": 5,
+        "unit": "g",
+        "aliases": [
+          "زيت"
+        ]
+      },
+      {
+        "key": "salt",
+        "ar": "ملح وفلفل",
+        "en": "Salt and pepper",
+        "amount": 1,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "اخفق البيض وتبّله.",
+      "ذبّل السبانخ في الزيت ثم أضف البيض.",
+      "رش الجبنة واطوِ الأومليت بعد تماسكه."
+    ],
+    "stepsEn": [
+      "Whisk and season the eggs.",
+      "Wilt spinach in oil, then add eggs.",
+      "Scatter cheese and fold when set."
+    ],
+    "allergensAr": [
+      "البيض",
+      "الحليب"
+    ],
+    "allergensEn": [
+      "Egg",
+      "Milk"
+    ],
+    "nutrition": {
+      "calories": 303.5,
+      "protein": 21.3,
+      "carbohydrates": 2.9,
+      "fat": 22.6,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        171287,
+        171413,
+        328637,
+        1999632
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-banana-milk-oatmeal",
+    "ar": "شوفان بالموز والحليب",
+    "en": "Banana Milk Oatmeal",
+    "descriptionAr": "شوفان دافئ بالحليب والموز.",
+    "descriptionEn": "Warm oatmeal with milk and banana.",
+    "fitnessGroup": "preWorkout",
+    "category": "breakfast",
+    "art": "fitness",
+    "minutes": 13,
+    "prepMinutes": 5,
+    "cookMinutes": 8,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "oats",
+        "ar": "شوفان ملفوف جاف",
+        "en": "Dry rolled oats",
+        "amount": 100,
+        "unit": "g",
+        "aliases": [
+          "شوفان",
+          "oats"
+        ]
+      },
+      {
+        "key": "milk",
+        "ar": "حليب قليل الدسم 1%",
+        "en": "1% low-fat milk",
+        "amount": 400,
+        "unit": "ml",
+        "aliases": [
+          "حليب",
+          "milk"
+        ]
+      },
+      {
+        "key": "banana",
+        "ar": "موز",
+        "en": "Banana",
+        "amount": 240,
+        "unit": "g",
+        "aliases": [
+          "موز",
+          "banana"
+        ]
+      },
+      {
+        "key": "cinnamon",
+        "ar": "قرفة",
+        "en": "Cinnamon",
+        "amount": 0.5,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "سخّن الحليب مع الشوفان مع التحريك 6–8 دقائق.",
+      "اهرِس نصف الموز وحرّكه داخل الشوفان.",
+      "قدّم مع بقية الموز والقرفة."
+    ],
+    "stepsEn": [
+      "Heat milk and oats, stirring for 6–8 minutes.",
+      "Mash half the banana into the oats.",
+      "Serve with remaining banana and cinnamon."
+    ],
+    "allergensAr": [
+      "الحليب",
+      "قد يحتوي الشوفان على الغلوتين"
+    ],
+    "allergensEn": [
+      "Milk",
+      "Oats may contain gluten"
+    ],
+    "nutrition": {
+      "calories": 393.4,
+      "protein": 14.4,
+      "carbohydrates": 72.3,
+      "fat": 5.2,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        746772,
+        1105314,
+        2346396
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-peanut-banana-toast",
+    "ar": "توست بزبدة الفول السوداني والموز",
+    "en": "Peanut Butter & Banana Toast",
+    "descriptionAr": "توست حبوب كاملة بطبقة من زبدة الفول السوداني والموز.",
+    "descriptionEn": "Whole-wheat toast topped with peanut butter and banana.",
+    "fitnessGroup": "preWorkout",
+    "category": "breakfast",
+    "art": "fitness",
+    "minutes": 10,
+    "prepMinutes": 8,
+    "cookMinutes": 2,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "bread",
+        "ar": "خبز حبوب كاملة",
+        "en": "Whole-wheat bread",
+        "amount": 120,
+        "unit": "g",
+        "aliases": [
+          "خبز",
+          "bread"
+        ]
+      },
+      {
+        "key": "peanutButter",
+        "ar": "زبدة فول سوداني",
+        "en": "Peanut butter",
+        "amount": 48,
+        "unit": "g",
+        "aliases": [
+          "زبدة الفول السوداني",
+          "peanut butter"
+        ]
+      },
+      {
+        "key": "banana",
+        "ar": "موز",
+        "en": "Banana",
+        "amount": 200,
+        "unit": "g",
+        "aliases": [
+          "موز",
+          "banana"
+        ]
+      },
+      {
+        "key": "cinnamon",
+        "ar": "قرفة",
+        "en": "Cinnamon",
+        "amount": 0.5,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "حمّص الخبز حسب الرغبة.",
+      "وزّع زبدة الفول السوداني بالتساوي.",
+      "أضف شرائح الموز والقرفة وقدّم فورًا."
+    ],
+    "stepsEn": [
+      "Toast the bread if desired.",
+      "Spread peanut butter evenly.",
+      "Top with banana and cinnamon; serve immediately."
+    ],
+    "allergensAr": [
+      "الفول السوداني",
+      "الغلوتين"
+    ],
+    "allergensEn": [
+      "Peanuts",
+      "Gluten"
+    ],
+    "nutrition": {
+      "calories": 399.9,
+      "protein": 13.9,
+      "carbohydrates": 54.1,
+      "fat": 14.2,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        172688,
+        1105314,
+        2262072
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-yogurt-fruit-oats",
+    "ar": "زبادي بالفواكه والشوفان",
+    "en": "Yogurt with Fruit & Oats",
+    "descriptionAr": "كوب زبادي يوناني مع التوت والشوفان.",
+    "descriptionEn": "Greek yogurt layered with berries and oats.",
+    "fitnessGroup": "preWorkout",
+    "category": "breakfast",
+    "art": "fitness",
+    "minutes": 8,
+    "prepMinutes": 8,
+    "cookMinutes": 0,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "yogurt",
+        "ar": "زبادي يوناني خالي الدسم",
+        "en": "Nonfat Greek yogurt",
+        "amount": 400,
+        "unit": "g",
+        "aliases": [
+          "زبادي",
+          "yogurt"
+        ]
+      },
+      {
+        "key": "oats",
+        "ar": "شوفان ملفوف جاف",
+        "en": "Dry rolled oats",
+        "amount": 70,
+        "unit": "g",
+        "aliases": [
+          "شوفان",
+          "oats"
+        ]
+      },
+      {
+        "key": "strawberry",
+        "ar": "فراولة",
+        "en": "Strawberries",
+        "amount": 200,
+        "unit": "g",
+        "aliases": [
+          "فراولة",
+          "strawberries"
+        ]
+      },
+      {
+        "key": "blueberry",
+        "ar": "توت أزرق",
+        "en": "Blueberries",
+        "amount": 100,
+        "unit": "g",
+        "aliases": [
+          "توت",
+          "blueberries"
+        ]
+      }
+    ],
+    "stepsAr": [
+      "اغسل الفاكهة وقطّع الفراولة.",
+      "قسّم الزبادي في وعاءين.",
+      "أضف الشوفان والفواكه قبل التقديم."
+    ],
+    "stepsEn": [
+      "Wash the fruit and slice strawberries.",
+      "Divide yogurt between two bowls.",
+      "Top with oats and fruit just before serving."
+    ],
+    "allergensAr": [
+      "الحليب",
+      "قد يحتوي الشوفان على الغلوتين"
+    ],
+    "allergensEn": [
+      "Milk",
+      "Oats may contain gluten"
+    ],
+    "nutrition": {
+      "calories": 324.0,
+      "protein": 26.3,
+      "carbohydrates": 46.6,
+      "fat": 3.2,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        330137,
+        2346396,
+        2346409,
+        2346411
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-banana-strawberry-smoothie",
+    "ar": "سموذي الموز والفراولة والحليب",
+    "en": "Banana Strawberry Milk Smoothie",
+    "descriptionAr": "سموذي كريمي بسيط من الحليب والموز والفراولة.",
+    "descriptionEn": "A simple creamy smoothie with milk, banana and strawberries.",
+    "fitnessGroup": "preWorkout",
+    "category": "drinks",
+    "art": "fitness",
+    "minutes": 7,
+    "prepMinutes": 7,
+    "cookMinutes": 0,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "milk",
+        "ar": "حليب قليل الدسم 1%",
+        "en": "1% low-fat milk",
+        "amount": 500,
+        "unit": "ml",
+        "aliases": [
+          "حليب",
+          "milk"
+        ]
+      },
+      {
+        "key": "banana",
+        "ar": "موز",
+        "en": "Banana",
+        "amount": 240,
+        "unit": "g",
+        "aliases": [
+          "موز",
+          "banana"
+        ]
+      },
+      {
+        "key": "strawberry",
+        "ar": "فراولة",
+        "en": "Strawberries",
+        "amount": 250,
+        "unit": "g",
+        "aliases": [
+          "فراولة",
+          "strawberries"
+        ]
+      },
+      {
+        "key": "ice",
+        "ar": "مكعبات ثلج",
+        "en": "Ice cubes",
+        "amount": 6,
+        "unit": "pcs",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "اغسل الفراولة وانزع أعناقها.",
+      "ضع كل المكونات في الخلاط.",
+      "اخلط حتى يصبح القوام ناعمًا وقدّم مباشرة."
+    ],
+    "stepsEn": [
+      "Wash and hull the strawberries.",
+      "Place all ingredients in a blender.",
+      "Blend until smooth and serve immediately."
+    ],
+    "allergensAr": [
+      "الحليب"
+    ],
+    "allergensEn": [
+      "Milk"
+    ],
+    "nutrition": {
+      "calories": 269.4,
+      "protein": 10.1,
+      "carbohydrates": 50.5,
+      "fat": 3.0,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        746772,
+        1105314,
+        2346409
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-cheese-veg-sandwich",
+    "ar": "ساندويش جبنة وخضار بخبز الحبوب الكاملة",
+    "en": "Whole-Grain Cheese & Vegetable Sandwich",
+    "descriptionAr": "ساندويش حبوب كاملة بالجبنة والسبانخ والجزر.",
+    "descriptionEn": "A whole-wheat sandwich with cheese, spinach and carrot.",
+    "fitnessGroup": "preWorkout",
+    "category": "snack",
+    "art": "fitness",
+    "minutes": 10,
+    "prepMinutes": 10,
+    "cookMinutes": 0,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "bread",
+        "ar": "خبز حبوب كاملة",
+        "en": "Whole-wheat bread",
+        "amount": 160,
+        "unit": "g",
+        "aliases": [
+          "خبز",
+          "bread"
+        ]
+      },
+      {
+        "key": "cheese",
+        "ar": "جبنة شيدر",
+        "en": "Cheddar cheese",
+        "amount": 70,
+        "unit": "g",
+        "aliases": [
+          "جبنة",
+          "cheese"
+        ]
+      },
+      {
+        "key": "spinach",
+        "ar": "سبانخ",
+        "en": "Spinach",
+        "amount": 80,
+        "unit": "g",
+        "aliases": [
+          "سبانخ"
+        ]
+      },
+      {
+        "key": "carrot",
+        "ar": "جزر مبشور",
+        "en": "Grated carrot",
+        "amount": 100,
+        "unit": "g",
+        "aliases": [
+          "جزر"
+        ]
+      },
+      {
+        "key": "pepper",
+        "ar": "فلفل أسود",
+        "en": "Black pepper",
+        "amount": 0.25,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "ضع الجبنة على شريحتين من الخبز.",
+      "أضف السبانخ والجزر والفلفل.",
+      "أغلق الساندويشين واقطعهما للتقديم."
+    ],
+    "stepsEn": [
+      "Place cheese on two bread slices.",
+      "Add spinach, carrot and pepper.",
+      "Close both sandwiches and cut to serve."
+    ],
+    "allergensAr": [
+      "الحليب",
+      "الغلوتين"
+    ],
+    "allergensEn": [
+      "Milk",
+      "Gluten"
+    ],
+    "nutrition": {
+      "calories": 375.5,
+      "protein": 19.7,
+      "carbohydrates": 40.8,
+      "fat": 15.1,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        170393,
+        172688,
+        328637,
+        1999632
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-chicken-sweet-potato",
+    "ar": "دجاج مشوي مع البطاطا الحلوة",
+    "en": "Grilled Chicken with Sweet Potatoes",
+    "descriptionAr": "دجاج مشوي مع مكعبات البطاطا الحلوة والسبانخ.",
+    "descriptionEn": "Grilled chicken with sweet potato cubes and spinach.",
+    "fitnessGroup": "postWorkout",
+    "category": "main",
+    "art": "fitness",
+    "minutes": 45,
+    "prepMinutes": 15,
+    "cookMinutes": 30,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "chicken",
+        "ar": "صدر دجاج نيئ",
+        "en": "Raw chicken breast",
+        "amount": 380,
+        "unit": "g",
+        "aliases": [
+          "دجاج",
+          "chicken"
+        ]
+      },
+      {
+        "key": "sweetPotato",
+        "ar": "بطاطا حلوة نيئة",
+        "en": "Raw sweet potatoes",
+        "amount": 500,
+        "unit": "g",
+        "aliases": [
+          "بطاطا حلوة",
+          "sweet potato"
+        ]
+      },
+      {
+        "key": "spinach",
+        "ar": "سبانخ",
+        "en": "Spinach",
+        "amount": 120,
+        "unit": "g",
+        "aliases": [
+          "سبانخ"
+        ]
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "amount": 15,
+        "unit": "g",
+        "aliases": [
+          "زيت"
+        ]
+      },
+      {
+        "key": "spices",
+        "ar": "بابريكا وملح وفلفل",
+        "en": "Paprika, salt and pepper",
+        "amount": 2,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "سخّن الفرن إلى 200°م وقلّب البطاطا بنصف الزيت والتوابل.",
+      "اشوِ البطاطا 25–30 دقيقة.",
+      "اشوِ الدجاج المتبّل حتى ينضج تمامًا وقدّمه مع البطاطا والسبانخ."
+    ],
+    "stepsEn": [
+      "Heat oven to 200°C; toss sweet potato with half the oil and seasoning.",
+      "Roast for 25–30 minutes.",
+      "Grill seasoned chicken until fully cooked; serve with potato and spinach."
+    ],
+    "allergensAr": [],
+    "allergensEn": [],
+    "nutrition": {
+      "calories": 481.2,
+      "protein": 48.4,
+      "carbohydrates": 44.7,
+      "fat": 12.5,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        171413,
+        1999632,
+        2346404,
+        2646170
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-chicken-pea-rice",
+    "ar": "أرز بالدجاج والبازيلاء",
+    "en": "Chicken & Pea Rice Bowl",
+    "descriptionAr": "وعاء أرز دافئ بالدجاج والبازيلاء.",
+    "descriptionEn": "A warm rice bowl with chicken and green peas.",
+    "fitnessGroup": "postWorkout",
+    "category": "main",
+    "art": "fitness",
+    "minutes": 40,
+    "prepMinutes": 15,
+    "cookMinutes": 25,
+    "servings": 3,
+    "ingredients": [
+      {
+        "key": "chicken",
+        "ar": "صدر دجاج نيئ",
+        "en": "Raw chicken breast",
+        "amount": 420,
+        "unit": "g",
+        "aliases": [
+          "دجاج",
+          "chicken"
+        ]
+      },
+      {
+        "key": "rice",
+        "ar": "أرز أبيض مطبوخ",
+        "en": "Cooked white rice",
+        "amount": 540,
+        "unit": "g",
+        "aliases": [
+          "أرز",
+          "rice"
+        ]
+      },
+      {
+        "key": "peas",
+        "ar": "بازيلاء مطبوخة",
+        "en": "Cooked green peas",
+        "amount": 240,
+        "unit": "g",
+        "aliases": [
+          "بازيلاء",
+          "peas"
+        ]
+      },
+      {
+        "key": "carrot",
+        "ar": "جزر",
+        "en": "Carrot",
+        "amount": 150,
+        "unit": "g",
+        "aliases": [
+          "جزر"
+        ]
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "amount": 12,
+        "unit": "g",
+        "aliases": [
+          "زيت"
+        ]
+      },
+      {
+        "key": "spices",
+        "ar": "بهارات وملح",
+        "en": "Spices and salt",
+        "amount": 2,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "قطّع الدجاج واطهه بالزيت حتى ينضج تمامًا.",
+      "أضف الجزر والبازيلاء وحرّك حتى تسخن.",
+      "قسّم الأرز في أوعية وأضف خليط الدجاج."
+    ],
+    "stepsEn": [
+      "Cut chicken and cook in oil until fully done.",
+      "Add carrot and peas; stir until hot.",
+      "Divide rice into bowls and top with chicken mixture."
+    ],
+    "allergensAr": [],
+    "allergensEn": [],
+    "nutrition": {
+      "calories": 505.5,
+      "protein": 41.1,
+      "carbohydrates": 68.0,
+      "fat": 7.5,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        168935,
+        170393,
+        170420,
+        171413,
+        2646170
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-whole-wheat-tuna-wrap",
+    "ar": "راب تونة بالخبز الكامل",
+    "en": "Whole-Wheat Tuna Wrap",
+    "descriptionAr": "لفائف خبز كامل بالتونة والسبانخ والجزر.",
+    "descriptionEn": "Whole-wheat wraps filled with tuna, spinach and carrot.",
+    "fitnessGroup": "postWorkout",
+    "category": "main",
+    "art": "fitness",
+    "minutes": 12,
+    "prepMinutes": 12,
+    "cookMinutes": 0,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "bread",
+        "ar": "خبز تورتيلا كامل",
+        "en": "Whole-wheat wraps",
+        "amount": 130,
+        "unit": "g",
+        "aliases": [
+          "خبز كامل",
+          "whole wheat wrap"
+        ]
+      },
+      {
+        "key": "tuna",
+        "ar": "تونة بالماء مصفّاة",
+        "en": "Tuna in water, drained",
+        "amount": 260,
+        "unit": "g",
+        "aliases": [
+          "تونة",
+          "tuna"
+        ]
+      },
+      {
+        "key": "yogurt",
+        "ar": "زبادي يوناني خالي الدسم",
+        "en": "Nonfat Greek yogurt",
+        "amount": 80,
+        "unit": "g",
+        "aliases": [
+          "زبادي",
+          "yogurt"
+        ]
+      },
+      {
+        "key": "spinach",
+        "ar": "سبانخ",
+        "en": "Spinach",
+        "amount": 80,
+        "unit": "g",
+        "aliases": [
+          "سبانخ"
+        ]
+      },
+      {
+        "key": "carrot",
+        "ar": "جزر مبشور",
+        "en": "Grated carrot",
+        "amount": 100,
+        "unit": "g",
+        "aliases": [
+          "جزر"
+        ]
+      },
+      {
+        "key": "lemon",
+        "ar": "عصير ليمون",
+        "en": "Lemon juice",
+        "amount": 1,
+        "unit": "tbsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "اخلط التونة مع الزبادي والليمون.",
+      "وزّع السبانخ والجزر على الخبز.",
+      "أضف التونة ولف بإحكام ثم اقطع."
+    ],
+    "stepsEn": [
+      "Mix tuna with yogurt and lemon.",
+      "Divide spinach and carrot between wraps.",
+      "Add tuna, roll tightly and cut."
+    ],
+    "allergensAr": [
+      "السمك",
+      "الحليب",
+      "الغلوتين"
+    ],
+    "allergensEn": [
+      "Fish",
+      "Milk",
+      "Gluten"
+    ],
+    "nutrition": {
+      "calories": 336.3,
+      "protein": 38.5,
+      "carbohydrates": 35.1,
+      "fat": 4.0,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        170393,
+        172688,
+        330137,
+        334194,
+        1999632
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-lentil-rice-veg-bowl",
+    "ar": "عدس مطبوخ مع الأرز والخضار",
+    "en": "Lentil, Rice & Vegetable Bowl",
+    "descriptionAr": "وعاء نباتي من العدس والأرز والخضار.",
+    "descriptionEn": "A plant-based bowl of lentils, rice and vegetables.",
+    "fitnessGroup": "postWorkout",
+    "category": "main",
+    "art": "fitness",
+    "minutes": 35,
+    "prepMinutes": 15,
+    "cookMinutes": 20,
+    "servings": 3,
+    "ingredients": [
+      {
+        "key": "lentils",
+        "ar": "عدس مطبوخ",
+        "en": "Cooked lentils",
+        "amount": 480,
+        "unit": "g",
+        "aliases": [
+          "عدس",
+          "lentils"
+        ]
+      },
+      {
+        "key": "rice",
+        "ar": "أرز أبيض مطبوخ",
+        "en": "Cooked white rice",
+        "amount": 420,
+        "unit": "g",
+        "aliases": [
+          "أرز",
+          "rice"
+        ]
+      },
+      {
+        "key": "carrot",
+        "ar": "جزر",
+        "en": "Carrot",
+        "amount": 180,
+        "unit": "g",
+        "aliases": [
+          "جزر"
+        ]
+      },
+      {
+        "key": "spinach",
+        "ar": "سبانخ",
+        "en": "Spinach",
+        "amount": 150,
+        "unit": "g",
+        "aliases": [
+          "سبانخ"
+        ]
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "amount": 15,
+        "unit": "g",
+        "aliases": [
+          "زيت"
+        ]
+      },
+      {
+        "key": "spices",
+        "ar": "كمون وملح وفلفل",
+        "en": "Cumin, salt and pepper",
+        "amount": 2,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "شوّح الجزر بالزيت حتى يلين.",
+      "أضف العدس والسبانخ والتوابل وسخّن جيدًا.",
+      "قسّم الأرز في أوعية وأضف خليط العدس."
+    ],
+    "stepsEn": [
+      "Sauté carrot in oil until tender.",
+      "Add lentils, spinach and seasoning; heat through.",
+      "Divide rice into bowls and top with lentils."
+    ],
+    "allergensAr": [],
+    "allergensEn": [],
+    "nutrition": {
+      "calories": 449.7,
+      "protein": 20.2,
+      "carbohydrates": 78.6,
+      "fat": 6.5,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        168935,
+        170393,
+        171413,
+        172421,
+        1999632
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-chicken-tomato-pasta",
+    "ar": "معكرونة بالصلصة الحمراء والدجاج",
+    "en": "Chicken Tomato Pasta",
+    "descriptionAr": "معكرونة بصلصة طماطم ودجاج مقطّع.",
+    "descriptionEn": "Pasta with tomato sauce and sliced chicken.",
+    "fitnessGroup": "postWorkout",
+    "category": "main",
+    "art": "fitness",
+    "minutes": 40,
+    "prepMinutes": 15,
+    "cookMinutes": 25,
+    "servings": 3,
+    "ingredients": [
+      {
+        "key": "chicken",
+        "ar": "صدر دجاج نيئ",
+        "en": "Raw chicken breast",
+        "amount": 420,
+        "unit": "g",
+        "aliases": [
+          "دجاج",
+          "chicken"
+        ]
+      },
+      {
+        "key": "pasta",
+        "ar": "معكرونة مطبوخة",
+        "en": "Cooked pasta",
+        "amount": 600,
+        "unit": "g",
+        "aliases": [
+          "معكرونة",
+          "pasta"
+        ]
+      },
+      {
+        "key": "tomatoSauce",
+        "ar": "صلصة طماطم دون ملح",
+        "en": "No-salt tomato sauce",
+        "amount": 360,
+        "unit": "g",
+        "aliases": [
+          "طماطم",
+          "tomato sauce"
+        ]
+      },
+      {
+        "key": "spinach",
+        "ar": "سبانخ",
+        "en": "Spinach",
+        "amount": 120,
+        "unit": "g",
+        "aliases": [
+          "سبانخ"
+        ]
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "amount": 12,
+        "unit": "g",
+        "aliases": [
+          "زيت"
+        ]
+      },
+      {
+        "key": "herbs",
+        "ar": "أعشاب مجففة وملح وفلفل",
+        "en": "Dried herbs, salt and pepper",
+        "amount": 2,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "قطّع الدجاج واطهه بالزيت حتى ينضج تمامًا.",
+      "أضف الصلصة والسبانخ والأعشاب واتركها تغلي برفق.",
+      "قلّب المعكرونة المطبوخة مع الصلصة وقدّم."
+    ],
+    "stepsEn": [
+      "Slice chicken and cook in oil until fully done.",
+      "Add sauce, spinach and herbs; simmer gently.",
+      "Toss with cooked pasta and serve."
+    ],
+    "allergensAr": [
+      "الغلوتين"
+    ],
+    "allergensEn": [
+      "Gluten"
+    ],
+    "nutrition": {
+      "calories": 539.2,
+      "protein": 45.7,
+      "carbohydrates": 69.1,
+      "fat": 9.2,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        168928,
+        169074,
+        171413,
+        1999632,
+        2646170
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-greek-yogurt-berries-nuts",
+    "ar": "زبادي يوناني بالتوت والمكسرات",
+    "en": "Greek Yogurt with Berries & Nuts",
+    "descriptionAr": "زبادي يوناني بالتوت والجوز المقرمش.",
+    "descriptionEn": "Greek yogurt topped with berries and crunchy walnuts.",
+    "fitnessGroup": "snacks",
+    "category": "snack",
+    "art": "fitness",
+    "minutes": 7,
+    "prepMinutes": 7,
+    "cookMinutes": 0,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "yogurt",
+        "ar": "زبادي يوناني خالي الدسم",
+        "en": "Nonfat Greek yogurt",
+        "amount": 400,
+        "unit": "g",
+        "aliases": [
+          "زبادي",
+          "yogurt"
+        ]
+      },
+      {
+        "key": "strawberry",
+        "ar": "فراولة",
+        "en": "Strawberries",
+        "amount": 160,
+        "unit": "g",
+        "aliases": [
+          "فراولة",
+          "strawberries"
+        ]
+      },
+      {
+        "key": "blueberry",
+        "ar": "توت أزرق",
+        "en": "Blueberries",
+        "amount": 120,
+        "unit": "g",
+        "aliases": [
+          "توت",
+          "blueberries"
+        ]
+      },
+      {
+        "key": "walnut",
+        "ar": "جوز إنجليزي نيئ",
+        "en": "Raw English walnuts",
+        "amount": 40,
+        "unit": "g",
+        "aliases": [
+          "جوز",
+          "walnuts"
+        ]
+      }
+    ],
+    "stepsAr": [
+      "اغسل الفاكهة وقطّع الفراولة.",
+      "قسّم الزبادي في وعاءين.",
+      "أضف الفاكهة والجوز قبل التقديم."
+    ],
+    "stepsEn": [
+      "Wash fruit and slice strawberries.",
+      "Divide yogurt between two bowls.",
+      "Top with fruit and walnuts just before serving."
+    ],
+    "allergensAr": [
+      "الحليب",
+      "المكسرات"
+    ],
+    "allergensEn": [
+      "Milk",
+      "Tree nuts"
+    ],
+    "nutrition": {
+      "calories": 335.5,
+      "protein": 24.5,
+      "carbohydrates": 24.6,
+      "fat": 15.0,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        330137,
+        2346394,
+        2346409,
+        2346411
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-roasted-chickpeas",
+    "ar": "حمص محمص بالفرن",
+    "en": "Oven-Roasted Chickpeas",
+    "descriptionAr": "حمص مقرمش بالفرن مع البابريكا والكمون.",
+    "descriptionEn": "Crunchy oven-roasted chickpeas with paprika and cumin.",
+    "fitnessGroup": "snacks",
+    "category": "snack",
+    "art": "fitness",
+    "minutes": 38,
+    "prepMinutes": 8,
+    "cookMinutes": 30,
+    "servings": 3,
+    "ingredients": [
+      {
+        "key": "chickpeas",
+        "ar": "حمص معلب مصفّى ومغسول",
+        "en": "Canned chickpeas, drained and rinsed",
+        "amount": 480,
+        "unit": "g",
+        "aliases": [
+          "حمص",
+          "chickpeas"
+        ]
+      },
+      {
+        "key": "oil",
+        "ar": "زيت زيتون",
+        "en": "Olive oil",
+        "amount": 15,
+        "unit": "g",
+        "aliases": [
+          "زيت"
+        ]
+      },
+      {
+        "key": "spices",
+        "ar": "بابريكا وكمون وملح",
+        "en": "Paprika, cumin and salt",
+        "amount": 2,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "سخّن الفرن إلى 200°م وجفف الحمص جيدًا.",
+      "قلّبه بالزيت والتوابل وافرده على صينية.",
+      "حمّص 25–30 دقيقة مع تحريك الصينية مرة حتى يقرمش."
+    ],
+    "stepsEn": [
+      "Heat oven to 200°C and dry chickpeas thoroughly.",
+      "Toss with oil and spices; spread on a tray.",
+      "Roast 25–30 minutes, shaking once, until crisp."
+    ],
+    "allergensAr": [],
+    "allergensEn": [],
+    "nutrition": {
+      "calories": 263.4,
+      "protein": 11.2,
+      "carbohydrates": 32.5,
+      "fat": 10.0,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        171413,
+        2644288
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-avocado-egg-toast",
+    "ar": "توست بالأفوكادو والبيض",
+    "en": "Avocado & Egg Toast",
+    "descriptionAr": "توست حبوب كاملة بالأفوكادو والبيض.",
+    "descriptionEn": "Whole-wheat toast with avocado and egg.",
+    "fitnessGroup": "snacks",
+    "category": "snack",
+    "art": "fitness",
+    "minutes": 20,
+    "prepMinutes": 10,
+    "cookMinutes": 10,
+    "servings": 2,
+    "ingredients": [
+      {
+        "key": "bread",
+        "ar": "خبز حبوب كاملة",
+        "en": "Whole-wheat bread",
+        "amount": 120,
+        "unit": "g",
+        "aliases": [
+          "خبز",
+          "bread"
+        ]
+      },
+      {
+        "key": "avocado",
+        "ar": "أفوكادو هاس مقشّر",
+        "en": "Peeled Hass avocado",
+        "amount": 160,
+        "unit": "g",
+        "aliases": [
+          "أفوكادو",
+          "avocado"
+        ]
+      },
+      {
+        "key": "egg",
+        "ar": "بيض",
+        "en": "Eggs",
+        "amount": 2,
+        "unit": "pcs",
+        "aliases": [
+          "بيض",
+          "eggs"
+        ]
+      },
+      {
+        "key": "lemon",
+        "ar": "عصير ليمون",
+        "en": "Lemon juice",
+        "amount": 1,
+        "unit": "tbsp",
+        "aliases": []
+      },
+      {
+        "key": "salt",
+        "ar": "ملح وفلفل",
+        "en": "Salt and pepper",
+        "amount": 0.5,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "اسلق البيض للدرجة المطلوبة ثم قشّره.",
+      "اهرِس الأفوكادو مع الليمون والملح والفلفل.",
+      "حمّص الخبز ووزّع الأفوكادو ثم أضف شرائح البيض."
+    ],
+    "stepsEn": [
+      "Boil eggs to your preferred doneness and peel.",
+      "Mash avocado with lemon, salt and pepper.",
+      "Toast bread, spread avocado and top with sliced egg."
+    ],
+    "allergensAr": [
+      "البيض",
+      "الغلوتين"
+    ],
+    "allergensEn": [
+      "Egg",
+      "Gluten"
+    ],
+    "nutrition": {
+      "calories": 401.1,
+      "protein": 15.2,
+      "carbohydrates": 32.6,
+      "fat": 23.1,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        171287,
+        172688,
+        2710824
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-oat-date-bites",
+    "ar": "كرات الشوفان والتمر",
+    "en": "Oat & Date Bites",
+    "descriptionAr": "كرات صغيرة دون خبز من التمر والشوفان وزبدة الفول السوداني.",
+    "descriptionEn": "No-bake bites made with dates, oats and peanut butter.",
+    "fitnessGroup": "snacks",
+    "category": "snack",
+    "art": "fitness",
+    "minutes": 20,
+    "prepMinutes": 20,
+    "cookMinutes": 0,
+    "servings": 8,
+    "ingredients": [
+      {
+        "key": "dates",
+        "ar": "تمر مجدول منزوع النوى",
+        "en": "Pitted Medjool dates",
+        "amount": 240,
+        "unit": "g",
+        "aliases": [
+          "تمر",
+          "dates"
+        ]
+      },
+      {
+        "key": "oats",
+        "ar": "شوفان ملفوف جاف",
+        "en": "Dry rolled oats",
+        "amount": 160,
+        "unit": "g",
+        "aliases": [
+          "شوفان",
+          "oats"
+        ]
+      },
+      {
+        "key": "peanutButter",
+        "ar": "زبدة فول سوداني",
+        "en": "Peanut butter",
+        "amount": 96,
+        "unit": "g",
+        "aliases": [
+          "زبدة الفول السوداني",
+          "peanut butter"
+        ]
+      },
+      {
+        "key": "water",
+        "ar": "ماء عند الحاجة",
+        "en": "Water as needed",
+        "amount": 2,
+        "unit": "tbsp",
+        "aliases": []
+      },
+      {
+        "key": "cinnamon",
+        "ar": "قرفة",
+        "en": "Cinnamon",
+        "amount": 1,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "اخلط التمر والشوفان وزبدة الفول السوداني والقرفة في محضرة الطعام.",
+      "أضف الماء تدريجيًا فقط إذا احتاج الخليط.",
+      "شكّل 16 كرة وبرّدها؛ الحصة كرتان."
+    ],
+    "stepsEn": [
+      "Process dates, oats, peanut butter and cinnamon.",
+      "Add water gradually only if needed.",
+      "Shape 16 bites and chill; one serving is two bites."
+    ],
+    "allergensAr": [
+      "الفول السوداني",
+      "قد يحتوي الشوفان على الغلوتين"
+    ],
+    "allergensEn": [
+      "Peanuts",
+      "Oats may contain gluten"
+    ],
+    "nutrition": {
+      "calories": 235.3,
+      "protein": 6.1,
+      "carbohydrates": 39.0,
+      "fat": 7.2,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        168191,
+        2262072,
+        2346396
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  },
+  {
+    "id": "fitness-fruit-yogurt-salad",
+    "ar": "سلطة فواكه بالزبادي",
+    "en": "Fruit & Yogurt Salad",
+    "descriptionAr": "سلطة فاكهة طازجة بصلصة زبادي خفيفة.",
+    "descriptionEn": "Fresh fruit salad with a light yogurt dressing.",
+    "fitnessGroup": "snacks",
+    "category": "snack",
+    "art": "fitness",
+    "minutes": 12,
+    "prepMinutes": 12,
+    "cookMinutes": 0,
+    "servings": 3,
+    "ingredients": [
+      {
+        "key": "yogurt",
+        "ar": "زبادي يوناني خالي الدسم",
+        "en": "Nonfat Greek yogurt",
+        "amount": 360,
+        "unit": "g",
+        "aliases": [
+          "زبادي",
+          "yogurt"
+        ]
+      },
+      {
+        "key": "banana",
+        "ar": "موز",
+        "en": "Banana",
+        "amount": 240,
+        "unit": "g",
+        "aliases": [
+          "موز",
+          "banana"
+        ]
+      },
+      {
+        "key": "strawberry",
+        "ar": "فراولة",
+        "en": "Strawberries",
+        "amount": 240,
+        "unit": "g",
+        "aliases": [
+          "فراولة",
+          "strawberries"
+        ]
+      },
+      {
+        "key": "blueberry",
+        "ar": "توت أزرق",
+        "en": "Blueberries",
+        "amount": 150,
+        "unit": "g",
+        "aliases": [
+          "توت",
+          "blueberries"
+        ]
+      },
+      {
+        "key": "cinnamon",
+        "ar": "قرفة",
+        "en": "Cinnamon",
+        "amount": 0.5,
+        "unit": "tsp",
+        "aliases": []
+      }
+    ],
+    "stepsAr": [
+      "اغسل الفاكهة وقطّع الفراولة والموز.",
+      "اخلط الفواكه برفق.",
+      "قسّمها في أوعية وأضف الزبادي والقرفة قبل التقديم."
+    ],
+    "stepsEn": [
+      "Wash fruit; slice strawberries and banana.",
+      "Gently combine the fruit.",
+      "Divide into bowls and add yogurt and cinnamon just before serving."
+    ],
+    "allergensAr": [
+      "الحليب"
+    ],
+    "allergensEn": [
+      "Milk"
+    ],
+    "nutrition": {
+      "calories": 211.9,
+      "protein": 13.8,
+      "carbohydrates": 36.4,
+      "fat": 1.0,
+      "source": "USDA FoodData Central · Foundation Foods 04/2026 and SR Legacy 04/2018",
+      "sourceUrl": "https://fdc.nal.usda.gov/",
+      "reviewedOn": "2026-10-21",
+      "fdcIds": [
+        330137,
+        1105314,
+        2346409,
+        2346411
+      ],
+      "basisAr": "للحصة الواحدة؛ الأوزان قبل الطبخ ما لم يُذكر أنها مطبوخة أو مصفّاة. الماء والملح والفلفل والأعشاب والتوابل غير محسوبة.",
+      "basisEn": "Per serving; weights are before cooking unless marked cooked or drained. Water, salt, pepper, herbs and spices are excluded."
+    }
+  }
+]
