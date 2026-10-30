@@ -1,99 +1,131 @@
-# FreshKeep
 
-تطبيق Flutter لإدارة طعام المنزل، بالعربية والإنجليزية. **المكتمل الآن: المراحل من الأولى حتى الخامسة.**
+# 🥬 FreshKeep
 
-## يعمل الآن
+### Smart Food Inventory & Expiry Management
 
-- تعريف أول مع اختيار اللغة وحفظ الإكمال دون حساب.
-- عربية RTL وإنجليزية LTR، وثيم فاتح/داكن/حسب الجهاز.
-- SQLite فعلي مع migrations ومفاتيح وفهارس وسجل تغييرات.
-- إضافة دفعة طعام وتعديلها وحذفها بعد التأكيد.
-- اسم وباركود وعلامة وتصنيف وكمية ووحدة وتواريخ ونوع التاريخ ومكان التخزين وسعر اختياري وصورة محلية.
-- دفعات مستقلة للباركود نفسه، وتكرار منتج مع طلب تاريخ الدفعة الجديدة.
-- استخدام الدفعة أو التخلّص منها بسبب اختياري، وإعادتها إلى المخزون.
-- بحث وتصفية حسب التصنيف والمكان والحالة، وترتيب بالاسم والتاريخ والإضافة، وعرض بطاقات أو قائمة.
-- رئيسية تتحدث من البيانات الفعلية، وزر إضافة واضح وقائمة «استخدمها أولًا» تستبعد التواريخ السابقة.
-- حفظ الصور المختارة في مجلد التطبيق، وأخطاء إدخال وقراءة وحفظ مترجمة.
+FreshKeep is a Flutter mobile application designed to help users manage food inventory, track expiration dates, organize recipes, and reduce food waste.
 
-- مسح EAN/UPC/ITF-14 وCode 128 الرقمي، ومراجعة بيانات Open Food Facts قبل تعبئة النموذج الحالي.
-- ذاكرة منتجات SQLite، وبدائل يدوية عند غياب المنتج أو الشبكة أو إذن الكاميرا.
-- قراءة تواريخ الصور محليًا باستخدام ML Kit مع تأكيد أو تصحيح صريح، وتمييز الإنتاج عن الصلاحية.
+The application combines local SQLite storage, barcode scanning, inventory management, meal planning, and smart ingredient consumption in a bilingual mobile experience.
 
-- تذكيرات اختيارية قبل التاريخ بـ7 و3 و1 يوم وفي يومه، مع أيام مخصصة ووقت قابل للتعديل، وجدولة غير دقيقة تحترم قيود Android.
-- قائمة مشتريات SQLite: إضافة وتعديل وحذف وشراء، وتحويل ذري إلى المخزون بعد تأكيد تاريخ الدفعة بالنموذج الحالي.
-- اقتراح إعادة شراء المنتجات المستخدمة التي لا توجد لها دفعة متاحة أو عنصر شراء معلق.
-- مكتبة محلية من 12 وصفة أصلية بالعربية والإنجليزية، ورسوم أصلية، وبحث وتصفية ومفضلة محفوظة.
-- مطابقة محافظة للمكونات والكميات والوحدات، واستبعاد التواريخ السابقة وترتيب بالاستفادة من الأقرب تاريخًا، وإضافة النواقص للمشتريات بعد المراجعة.
+## ✨ Features
 
-- إحصائيات SQLite حقيقية للدفعات المستخدمة والمتخلّص منها، ورسوم أسبوعية وشهرية لآخر ست فترات.
-- تقديرات أسعار الدفعات مع تغطية الأسعار؛ الاستعادة تعكس الاحتساب والحذف يحفظ التاريخ.
-- إعدادات خصوصية، وتصدير JSON عبر نافذة حفظ Android دون صلاحيات تخزين، وحذف البيانات الشخصية بتأكيد واضح وإلغاء التنبيهات.
+### 📦 Food Inventory Management
+- Add, edit, search, and delete food products.
+- Track quantities, categories, and storage locations.
+- Monitor expiration dates.
+- Organize products using list and grid views.
+- Track consumed and discarded products.
 
-لم تبدأ المرحلة السادسة. الإعلانات والاشتراكات غير مفعّلة.
-وجود حزمها في pubspec لا يعني أن وظائفها مفعّلة. لم تُضف بيانات طعام تجريبية إلى التطبيق.
+### 📷 Barcode Scanning
+- Scan supported product barcodes using the camera.
+- Retrieve available product information.
+- Review product details before saving.
+- Manually edit scanned information.
 
-## التشغيل
+### 🍽️ Recipes & Meal Planning
+- Browse recipes organized by category.
+- Create and manage personal recipes.
+- Plan breakfast, lunch, and dinner.
+- View ingredients and preparation instructions.
+- Use integrated cooking timers.
 
-Flutter 3.47.7 / Dart 3.13.5، Android SDK وJDK متوافقان مع Gradle.
+### 🧠 Smart Inventory Consumption
+- Deduct ingredient quantities from inventory.
+- Adjust recipe servings before consumption.
+- Prioritize products approaching expiration.
+- Distribute consumption across inventory batches.
+- Support compatible unit conversions.
+- Prevent invalid quantities and partial database updates.
 
-```powershell
+### 📊 Statistics & Data Management
+- View inventory and consumption statistics.
+- Visualize data using charts.
+- Export inventory data.
+- Manage locally stored information.
+
+### 🌍 User Experience
+- Arabic and English language support.
+- Right-to-left and left-to-right layouts.
+- Light and dark themes.
+- Food storage guidance.
+- Responsive Flutter interface.
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|---|---|
+| Framework | Flutter |
+| Language | Dart |
+| Local Database | SQLite |
+| Data Visualization | fl_chart |
+| Barcode Scanning | Camera and barcode scanning integration |
+| Product Information | Open Food Facts API |
+| Platform | Android |
+
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code
+- Android emulator or physical device
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sajabj/freshkeep.git
+cd freshkeep
+```
+
+Install dependencies:
+
+```bash
 flutter pub get
-flutter gen-l10n
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+Run static analysis:
+
+```bash
 flutter analyze
+```
+
+Run tests:
+
+```bash
 flutter test
-flutter run -d emulator-5554
 ```
 
-اختبارات Android تستخدم محاكيًا. اختبار المخزون ينشئ قاعدة اختبار مستقلة بمعرّف عشوائي، ويعيد فتحها للتحقق من البقاء، ثم ينظّفها.
-اختبار التنقل يعيد تفضيلات الجهاز الأصلية بعد انتهائه.
+## 🔐 Data & Privacy
 
-```powershell
-flutter test integration_test -d emulator-5554 --no-uninstall
-flutter build apk --debug
-```
+FreshKeep uses local SQLite storage for inventory and application data.
 
-الحزمة: `artifacts/FreshKeep-phase5-debug.apk` — نسخة تطوير وليست إصدار Google Play.
-تستخدم Open Food Facts **staging** افتراضيًا وفق تعليمات اختبار الخدمة؛ قد تختلف المنتجات عن القاعدة العامة.
-قبل إصدار عام، اضبط `--dart-define=OFF_PRODUCTION=true` و`--dart-define=OFF_CONTACT=<owner-contact>` بوسيلة اتصال حقيقية، وراجع توثيق الخدمة ونموذج تعريف الاستخدام. لا يتطلب البحث حسابًا أو مفتاحًا مدفوعًا.
-المعرّف الحالي `com.freshkeep.freshkeep` يحتاج اعتماد المالك قبل النشر، والتوقيع النهائي مؤجل لمرحلة النشر.
+Barcode-based product lookups may communicate with an external product information service.
 
-## الملفات الأساسية
+Sensitive configuration files, signing credentials, and private user data should not be committed to the repository.
 
-- `lib/core/database/local_database.dart`: إنشاء قاعدة البيانات وترقياتها.
-- `lib/features/inventory/domain/`: نموذج الدفعة وحساب التواريخ والتصفية وعقد المستودع.
-- `lib/features/inventory/data/`: SQLite والصور المحلية.
-- `lib/features/inventory/application/`: حالة Riverpod وتحديث اليوم المحلي.
-- `lib/features/inventory/presentation/`: النموذج والتفاصيل والمخزون والإجراءات والتصفية.
-- `lib/features/home/presentation/home_screen.dart`: الملخص الفعلي والأقرب إلى التاريخ.
-- `lib/features/settings/`: اللغة والمظهر والتفضيلات والخصوصية وتصدير JSON والحذف.
-- `lib/features/statistics/`: احتساب نتائج الدفعات والاتجاهات والرسوم من البيانات الفعلية.
-- `lib/features/scanning/`: خدمة المنتجات وذاكرتها وOCR ومحلل التاريخ وشاشات المراجعة والإسناد.
-- `lib/features/reminders/`: الإعدادات والتخطيط ومعرّفات SQLite والمصالحة مع جدولة Android غير الدقيقة.
-- `lib/features/shopping/`: المشتريات والتحويل الذري وإعادة الشراء.
-- `lib/features/recipes/` و`assets/recipes/`: المكتبة الأصلية والمطابقة والمفضلة والرسومات.
-- `lib/features/onboarding/` و`lib/features/navigation/`: التعريف والتنقل.
-- `lib/l10n/`: ARB والترجمات المولدة، مع صيغ جمع عربية وإنجليزية.
-- `test/` و`integration_test/`: اختبارات المنطق وSQLite والواجهات والصور وAndroid.
-- `docs/PHASE_2_REPORT.md`: نتيجة المرحلة الثانية والقيود والملفات.
-- `docs/PHASE_3_REPORT.md`: تقرير المسح الذكي، ونتائج التحقق وحدود OCR وتهيئة الخدمة العامة.
-- `docs/PHASE_5_REPORT.md`: تقرير الإحصائيات والخصوصية والأداء والاختبارات والقيود.
-- `docs/PHASE_4_REPORT.md`: تقرير الوحدات الجديدة والاختبارات، وحدود جدولة النظام والمطابقة.
-- `docs/PHASE_1_REPORT.md`: التقرير التاريخي للمرحلة الأولى.
-- `docs/DESIGN.md` و`docs/ARCHITECTURE.md`: التصميم والبنية.
-- `docs/SPECIFICATION.ar.md`: المواصفات الأصلية.
+## 🎯 Engineering Highlights
 
-## البيانات والخصوصية
+- Local database integration and CRUD operations.
+- Inventory quantity validation and batch management.
+- Transaction-based database updates.
+- Integration with barcode scanning and product APIs.
+- Multilingual UI development.
+- Modular Flutter application development.
 
-تُحفظ سجلات الطعام والصور المحلية والتفضيلات على الجهاز. البحث يرسل الباركود واللغة وIP إلى Open Food Facts؛ صورة المنتج الخارجية تُحمّل من خدمته وتُخزّن مؤقتًا عند نجاح التحميل. صور OCR تُعالج على الجهاز ولا تُرفع. لا إعلانات أو تحليلات أو حسابات مفعّلة.
-النسخ الاحتياطي التلقائي في Android معطّل. يحتفظ حذف الدفعة بسجل تغييراتها محليًا كما توضّح رسالة التأكيد؛ تتيح إعدادات «البيانات والخصوصية» حذف البيانات الشخصية وسجلها وصورها وذاكرتها والتذكيرات. تبقى إعدادات العرض ومكتبة الوصفات الأصلية والملفات المصدّرة خارج التطبيق، كما توضّح رسالة التأكيد.
-لا يعتمد التطبيق على التاريخ وحده لضمان سلامة الطعام، ويشرح الفرق بين انتهاء الصلاحية وأفضل استخدام قبل.
+## 👩‍💻 Developer
 
-صور Golden وبياناتها تخص الاختبارات فقط. يُحمَّل خط Noto Sans Arabic من الملفات المحلية مع ترخيصه في الحزمة.
-استُخدمت UI UX Pro Max وTaste Skill في التصميم؛ مهارات Codex عامة وخارج حزمة التطبيق.
+**Saja Bani Jami**
 
-التذكيرات معطلة افتراضيًا، وإذن الإشعارات يُطلب عند تفعيلها فقط. لا أذونات تنبيه دقيق أو إعفاء من تحسين البطارية.
-وقت وصول التنبيه قد يتأخر بفعل النظام. يعيد مستقبل الإقلاع جدولة الطلبات، ويعيد التطبيق تهيئتها عند فتحه والعودة إليه.
-بعد فرض الإيقاف أو تغيير المنطقة الزمنية افتح التطبيق. تُجدول أقرب 400 تذكير مستقبلي فقط مع توضيح الحد في الإعدادات؛ المواعيد الماضية لا تُنشأ بأثر رجعي عند المصالحة داخل التطبيق.
+Computer Science Graduate | Software Developer
 
-اختبار Android الخاص بإظهار إشعار يتطلب منح POST_NOTIFICATIONS للمحاكي التجريبي؛ لا تُمنح أذونات مستخدم حقيقي تلقائيًا.
-`tool/boot_probe.dart` أداة محاكي مستقلة لفحص إعادة الإقلاع، وليست نقطة تشغيل التطبيق. ابنِ APK التسليم من `lib/main.dart`.
+[GitHub Profile](https://github.com/sajabj)
